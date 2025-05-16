@@ -1,15 +1,35 @@
-# Awesome-Academic-Writing
 
-This repo curated a cllection of tutorials and tips regarding academic english wiriting for researchers who are non-native english speakers.
 
+<p align="center">
+<h1 align="center">   Awesome-Academic-Writing </h1>
+<p>This repo curated a cllection of tutorials and tips regarding academic english wiriting for researchers who are non-native english speakers.</p>
 ***"The limits of my language mean the limits of my world."  Ludiwig Wittgenstein***
  --
+ 
+</p>
+<p align="center">
+  <a >
+       <img alt="Status-building" src="https://img.shields.io/badge/Status-building-blue" />
+  	</a> 
+    [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/SIA-Share/AlumniMap/pulls)
+  <a >
+       <img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-green" />
+  	</a>
 
+
+
+</p>
 
  
 
-## Writing
-[Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
+## Writing Tips
+[Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)      	
+<a href="https://github.com/MLNLP-World/Paper_Writing_Tips/stargazers">
+       <img alt="stars" src="https://img.shields.io/github/stars/MLNLP-World/Paper_Writing_Tips" />
+</a>
+<a href="https://github.com/MLNLP-World/Paper_Writing_Tips/network/members">
+       <img alt="FORK" src="https://img.shields.io/github/forks/MLNLP-World/Paper_Writing_Tips?color=FF8000" />
+</a>
 
 [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html) and [Writing Technical Articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html) by Henning Schulzrinne
 
