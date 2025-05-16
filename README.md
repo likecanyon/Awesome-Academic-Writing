@@ -1,27 +1,25 @@
 
 
 <p align="center">
-<h1 align="center">   Awesome-Academic-Writing </h1>
-<p>This repo curated a cllection of tutorials and tips regarding academic english wiriting for researchers who are non-native english speakers.</p>
+<h1 align="center">   Awesome-Academic-Writing </h1> 
+
+
+
+This repo curated a cllection of tutorials and tips regarding academic english wiriting for researchers who are non-native english speakers.</p>
+
+
 ***"The limits of my language mean the limits of my world."  Ludiwig Wittgenstein***
- --
- 
-</p>
-<p align="center">
-  <a >
-       <img alt="Status-building" src="https://img.shields.io/badge/Status-building-blue" />
-  	</a> 
-    [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/SIA-Share/AlumniMap/pulls)
-  <a >
-       <img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-green" />
-  	</a>
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/likecanyon/Awesome-Academic-Writing/pulls)
+![StatusBuilding](https://img.shields.io/badge/Status-building-blue.svg)
 
 
 
-</p>
+
+
+
 
  
-
 ## Writing Tips
 [Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)      	
 <a href="https://github.com/MLNLP-World/Paper_Writing_Tips/stargazers">
@@ -42,7 +40,7 @@
 [Writing a Progress/Status Report, by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/progress-report.html)
 
 
-
+[College Writing Skills, with Readings,John Langan, 9th edition, CN](https://github.com/likecanyon/Awesome-Academic-Writing/books/美国大学英语写作第9版.pdf)
 
 
 ## Rebuttal
