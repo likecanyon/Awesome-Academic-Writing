@@ -21,11 +21,8 @@ This repo curated a cllection of tutorials and tips regarding academic english w
 
  
 ## Writing Tips
-[Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)<a href="https://github.com/MLNLP-World/Paper_Writing_Tips/stargazers">
-       <img alt="stars" src="https://img.shields.io/github/stars/MLNLP-World/Paper_Writing_Tips" />
-</a><a href="https://github.com/MLNLP-World/Paper_Writing_Tips/network/members">
-       <img alt="FORK" src="https://img.shields.io/github/forks/MLNLP-World/Paper_Writing_Tips?color=FF8000" />
-</a>
+[Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips) 
+<a href="https://github.com/MLNLP-World/Paper_Writing_Tips/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/MLNLP-World/Paper_Writing_Tips" /></a>
 
 [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html) and [Writing Technical Articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html) by Henning Schulzrinne
 
