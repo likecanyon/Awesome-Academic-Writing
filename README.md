@@ -40,7 +40,7 @@ This repo curated a cllection of tutorials and tips regarding academic english w
 [Writing a Progress/Status Report, by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/progress-report.html)
 
 
-[College Writing Skills, with Readings,John Langan, 9th edition, CN](https://github.com/likecanyon/Awesome-Academic-Writing/books/美国大学英语写作第9版.pdf)
+[College Writing Skills, with Readings,John Langan, 9th edition, CN, download link](https://pdfcoffee.com/-913791990pdf-pdf-free.html)
 
 
 ## Rebuttal
